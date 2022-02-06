@@ -1,2 +1,3 @@
-# iOS-tests-practices
-Unit/UI tests practices using sample iOS apps
+# SwiftUI-iOS-test-examples-of-ui-unit-testing
+A sample SwiftUI iOS app to practice writing UI/unit tests.
+
